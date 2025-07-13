@@ -1,0 +1,6 @@
+Name, RollNo, Attendance%
+Trijal Khade, 187, 86.1386%
+Aniruddha Gaikwad, 197, 91.0891%
+Mayuresh Mandalik, 184, 92.0792%
+Sneha Gulve, 189, 89.1089%
+Harsh Karadage, 157, 81.1881%
